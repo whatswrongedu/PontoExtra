@@ -24,9 +24,7 @@ class ClassAluno {
         return $this->nota2;
     } 
 
-
-
-    
+  
     // Métodos Setters
     function setId($id) {
         $this->id = $id;
